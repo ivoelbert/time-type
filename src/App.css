@@ -1,0 +1,38 @@
+.App {
+    color: white;
+}
+
+.header {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+.writing-container {
+    position: relative;
+    min-height: 400px;
+    background-color: #2f333b;
+    line-height: 40px;
+    padding: 24px;
+}
+
+.caret {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 30px;
+    background-color: white;
+}
+
+.letter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: fit-content;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}

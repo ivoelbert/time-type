@@ -1,0 +1,3 @@
+# TIME TYPE
+
+Just write
