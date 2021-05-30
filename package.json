@@ -1,6 +1,7 @@
 {
+    "private": false,
     "name": "time-type",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "homepage": "https://ivoelbert.github.io/time-type/",
     "scripts": {
         "dev": "vite",
